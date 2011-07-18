@@ -11,9 +11,9 @@ Parameters in this call
 ------------------------
 
 If you've a look at the entire rake script you'll see, that each parameter is manditory for the script execution. The parameters are listed regarding to the position in the sample class
- - MailServer
- - Mail Recipient
- - Mail Subject
- - Mail Content
- - Package Name (will be attached to the mail)
+ * MailServer
+ * Mail Recipient
+ * Mail Subject
+ * Mail Content
+ * Package Name (will be attached to the mail)
 
